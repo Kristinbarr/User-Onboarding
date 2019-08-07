@@ -1,5 +1,5 @@
 import React from 'react';
-import Form from './components/Form'
+import UserForm from './components/Form'
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
       </header>
-        <Form />
+        <UserForm />
     </div>
   );
 }
